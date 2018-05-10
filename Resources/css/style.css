@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+div {font-family: verdana;
+  text-align: center;
+}
+
+div.Click {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42;
+}
+
+div.secondline {
+  font-size: 21px;
+  color: gray;
+}
+
+div.BottomText {
+  text-align: right;
+  color: gray;
+}
